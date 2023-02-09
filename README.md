@@ -1,4 +1,4 @@
-Hello! My name is Lanxe and I am pursuing a career in data science & analytics. Before this transition, I was a semiconductor product engineer and then went full-time as a gaming content creator and community builder.
+Hello! My name is Lanxe and I am pursuing a career in Software Engineering or Data Engineering/Analytics. Before this transition, I was a semiconductor product engineer and then went full-time as a gaming content creator and community builder.
 
 I found a special interest in working with big data in both of my previous roles, and am now seeking to bring my unique combination of experiences to tech. My goal is to become a data science and machine learning expert, taking on the hardest problems our world is facing, then beating them with the power of an AI-generated dashboard.
 
