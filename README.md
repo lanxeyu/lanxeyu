@@ -1,6 +1,6 @@
 Hello! My name is Lanxe and I am pursuing a career in Software Engineering or Data Engineering/Analytics. Before this transition, I was a semiconductor product engineer and then went full-time as a gaming content creator and community builder.
 
-I found a special interest in working with big data in both of my previous roles, and am now seeking to bring my unique combination of experiences to tech. My goal is to become a data science and machine learning expert, taking on the hardest problems our world is facing, then beating them with the power of an AI-generated dashboard.
+I found a special interest in working with big data in both of my previous roles, and am now seeking to bring my unique combination of experiences to tech. My long-term goal is to become a data engineering and machine learning expert, taking on the hardest problems our world is facing, then beating them with the power of a sentient AI - contingent on this AI not concluding that we are the hardest problem.
 
 <!--
 **lanxeyu/lanxeyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
